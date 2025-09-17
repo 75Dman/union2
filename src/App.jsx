@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-        <div style={{ padding: 32, fontFamily: 'sans-serif' }}>
+        <div className="responsive-card" style={{ padding: 32, fontFamily: 'sans-serif', maxWidth: 500, margin: '0 auto' }}>
           <h1>API Key Test</h1>
           <p>
             <strong>VITE_API_KEY:</strong> {import.meta.env.VITE_API_KEY || 'Not found'}
