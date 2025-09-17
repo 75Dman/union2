@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Union Agreement Chat Bot",
+  "description": "An AI-powered chatbot to answer questions about two collective agreements: Ship Repair (East) and Ship Repair (Chargehands, East Coast). Ask about pay, leave, allowances, and other details from the union documents.",
+  "requestFramePermissions": []
+}
