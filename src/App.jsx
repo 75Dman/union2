@@ -8,14 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
+      {/* Logo section removed for a cleaner, more professional look */}
         <div className="responsive-card" style={{ padding: 32, fontFamily: 'sans-serif', maxWidth: 500, margin: '0 auto' }}>
           <h1>API Key Test</h1>
           <p>
